@@ -1,0 +1,5 @@
+Evans Kirimi is a software enthusiast from Chuka, Kenya.
+He enjoys learning and applying Python programming in practical scenarios.
+This file is an example for testing file processing scripts!
+
+Evans Kirimi is constantly expanding his knowledge in programming and technology.
